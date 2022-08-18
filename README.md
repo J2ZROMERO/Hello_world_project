@@ -1,45 +1,58 @@
-Hello Microverse
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-In this project get prepared at basic strucure of HTML and get realized the next:
-- add .gitignore
-- add linter to project
-- add modified README.md
-- add index.html
-- add style.css
-- add test.md (untracked by gitignore)
+# HELLO MICROVERSE
 
-Built With
+> This project is going to help you to review how implement gitignore and a sample basic structure of and html and css
+
+
+## Built With
 
 - HTML
 - CSS
 - GIT
 
-Getting Started
+## Live Demo (if available)
 
-To run this project you have to realize the next:
-- clone this repo in your computer.
-- you can acces to the whole files, and you could  open and view or rewrite content.
+[Live Demo Link](https://livedemo.com)
+
+
+## Getting Started
+
+**You could use this project to Know the basic syntax and you just have to remove the comments and change the contet with your data.**
+
+
 
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
-- to edit this files you must have a text Editor.
-- to have git in your computer
+### clone this repo in your computer.
+
+### have a text editor
 
 
-Authors
-👤 Author1
-- GitHub: @https://github.com/J2ZROMERO
-- Twitter: @Jose_zepeda
-- LinkedIn: @jose_zromero
 
-🤝 Contributing
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [githubhandle](@https://github.com/J2ZROMERO)
+- Twitter: [@twitterhandle](https://twitter.com/JOSEZEPED4)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jose-zepeda-733ab91ab/)
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-📝 License
-This project is MIT licensed.
+
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
