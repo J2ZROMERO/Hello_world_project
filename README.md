@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](@https://github.com/J2ZROMERO)
+- GitHub: [githubhandle](@https://github.com/J2ZROMERO)
 - Twitter: [@twitterhandle](https://twitter.com/JOSEZEPED4)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jose-zepeda-733ab91ab/)
 
